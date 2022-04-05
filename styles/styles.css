@@ -1,0 +1,10 @@
+.navbar {
+    padding: 1%;
+    font-size: x-large;
+}
+
+.carousel-section {
+    display: flex;
+    justify-content: center;
+    padding-top: 2%;
+}
