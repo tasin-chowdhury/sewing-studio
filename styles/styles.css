@@ -8,3 +8,34 @@
     justify-content: center;
     padding-top: 2%;
 }
+
+.container{
+    margin-top: 80px;
+}
+button{
+    margin-top: 50px;
+}
+.row {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 5px;
+  }
+
+.btn-group {
+    display: flex;
+  }
+  
+  .btn-group .btn a {
+    padding: 5px 15px;
+    background-color: #28a745;
+    color: #fff;
+    border-radius: 3px;
+    margin-left: -2px;
+  }
+  .btn-group a {
+    margin: 0 10px;
+    text-decoration: none;
+    color: #000;
+  }
+  
